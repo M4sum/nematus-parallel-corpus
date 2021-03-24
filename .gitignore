@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/nematus/data/
+/nematus/doc/
+/nematus/nematus/
+/nematus/test/
+/nematus/utils/
+/nematus/ChangeLOG.md
+/nemtus/setup.py
